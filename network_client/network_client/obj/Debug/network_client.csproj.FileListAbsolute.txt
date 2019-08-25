@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\network_client\network_client\bin\Debug\network_client.exe.config
+C:\Users\Tom\source\repos\network_client\network_client\bin\Debug\network_client.exe
+C:\Users\Tom\source\repos\network_client\network_client\bin\Debug\network_client.pdb
+C:\Users\Tom\source\repos\network_client\network_client\obj\Debug\network_client.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\network_client\network_client\obj\Debug\network_client.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\network_client\network_client\obj\Debug\network_client.exe
+C:\Users\Tom\source\repos\network_client\network_client\obj\Debug\network_client.pdb

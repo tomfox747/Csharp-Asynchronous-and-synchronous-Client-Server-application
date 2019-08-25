@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\bin\Debug\network_server_threaded.exe.config
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\bin\Debug\network_server_threaded.exe
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\bin\Debug\network_server_threaded.pdb
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\obj\Debug\network_server_threaded.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\obj\Debug\network_server_threaded.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\obj\Debug\network_server_threaded.exe
+C:\Users\Tom\source\repos\network_server_threaded\network_server_threaded\obj\Debug\network_server_threaded.pdb

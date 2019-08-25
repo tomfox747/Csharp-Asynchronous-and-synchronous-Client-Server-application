@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\network_server\network_server\obj\Debug\network_server.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\network_server\network_server\obj\Debug\network_server.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\network_server\network_server\bin\Debug\network_server.exe.config
+C:\Users\Tom\source\repos\network_server\network_server\bin\Debug\network_server.exe
+C:\Users\Tom\source\repos\network_server\network_server\bin\Debug\network_server.pdb
+C:\Users\Tom\source\repos\network_server\network_server\obj\Debug\network_server.exe
+C:\Users\Tom\source\repos\network_server\network_server\obj\Debug\network_server.pdb
